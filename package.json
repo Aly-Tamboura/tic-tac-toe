@@ -9,7 +9,7 @@
         "node": ">=0.10"
     },
     "scripts": {
-        "start": "node ./app.js",
+        "start": "nodemon ./app.js",
         "o": "node ./0.js",
         "x": "node ./x.js"
     },
